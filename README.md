@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Full Stack Web Application
 
 A complete full-stack web application with React frontend, Node.js/Express backend, and MongoDB database. Includes user authentication, user management, admin dashboard, and role-based access control.
@@ -258,3 +259,6 @@ Error Response:
 ## License
 
 MIT License - feel free to use this project for any purpose.
+=======
+# Purple-merit
+>>>>>>> c29403c0353ac02ef9e865c445866ba9277f8c02
