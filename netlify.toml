@@ -1,6 +1,8 @@
 [build]
-  command = "npm --prefix frontend run build"
-  publish = "frontend/dist"
+  # Netlify site base directory is set to `frontend` in the UI.
+  # When base is `frontend` the build should run from that directory.
+  command = "npm run build"
+  publish = "dist"
 
 [[redirects]]
   from = "/*"
